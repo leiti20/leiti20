@@ -1,4 +1,8 @@
 ## Hi there 👋
+<p align="center">
+  <img src="tumblr_static_azgsowaz948okgow4c4o8go8c_gif (500×357).gif" alt="Bienvenue" width="300"/>
+</p>
+
 # 💫 About Me:
 Bonjour ! Je suis Leiticia , je suis étudiante en informatique.<br>Sur ce GitHub, vous trouverez mes projets , ainsi que des travaux pratiques et des projets académiques.<br>J’apprends chaque jour et je partage ici mon évolution dans le développement d'applications web et d’outils d’analyse.
  
