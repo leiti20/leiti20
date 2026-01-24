@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  <img src="tumblr_static_azgsowaz948okgow4c4o8go8c_gif (500×357).gif" alt="Bienvenue" width="300"/>
+  <img src="tumblr_static_azgsowaz948okgow4c4o8go8c_gif (500×357).gif" alt="Bienvenue" />
 </p>
 
 # 💫 About Me:
